@@ -14,4 +14,4 @@
    npm run start
    ```
 
-![image-20250402162407610](C:\Users\UPSWKG\AppData\Roaming\Typora\typora-user-images\image-20250402162407610.png)
+![alt text](image.png)
